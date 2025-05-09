@@ -1,4 +1,4 @@
-// Ejercicio: Crear una calculadora simple que realice operaciones básicas (suma, resta, multiplicación y división) entre dos números.
+
 
 const { ask } = require('../helpers/input');
 
